@@ -7,8 +7,10 @@ public class Song {
     private String album;
     private int rating;
 
+/*
     public Song() {
     }
+*/
 
     public long getId() {
         return id;
